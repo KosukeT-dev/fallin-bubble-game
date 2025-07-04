@@ -1,3 +1,7 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
 .container {
   position: relative;
   width: 420px;
